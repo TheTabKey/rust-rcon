@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "webrconjs": "^1.0.0",
+    "yargs": "^17.5.1"
+  },
+  "name": "rust-rcon-command-line",
+  "description": "rust rcon command line tool for automation",
+  "version": "1.0.0",
+  "main": "rustrconsend.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTabKey/rust-rcon.git"
+  },
+  "author": "TheTabKey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheTabKey/rust-rcon/issues"
+  },
+  "homepage": "https://github.com/TheTabKey/rust-rcon#readme"
+}
